@@ -1,0 +1,43 @@
+/* .navigation ul{
+    position: fixed;
+    top: 10;
+    left: 30px;
+    background-color: rgb(236, 221, 221);
+    border-radius: 20px;
+    padding: 5px;
+    display: flex;
+    gap:20px ;
+  } */
+/* .navigation2 ul{
+    position: absolute;
+    top: 10;
+    left: 30px;
+    background-color: rgb(236, 221, 221);
+    border-radius: 20px;
+    padding: 5px;
+    display: flex;
+    gap:20px ;
+  } */
+
+  .navigation ul{
+    float: right;
+    width: 200px;
+    background-color: blanchedalmond;
+  }
+
+  .footer{
+    clear: left;
+    background: linear-gradient();
+  }
+
+  #advanced{
+    background: #f8f6f6;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px/50px;
+    box-shadow: inset 10px 10px 10px 10px #010e04a2;
+    box-shadow: outset 5px 8px 10px 4px #999;/* for out shadow */
+    position: fixed;
+    left: 80px;
+    top: 10px;
+  }
